@@ -1,6 +1,12 @@
 ### dotenv ###
 .env
 
+*.csv
+question.csv
+
+# local-only sources
+protos/
+
 ### macOS ###
 # General
 .DS_Store
